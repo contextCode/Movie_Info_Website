@@ -8,5 +8,3 @@ services:
     buildCommand: npm run build
     startCommand: npm run start
     staticPublishPath: build
-    git:
-      repo: https://github.com/contextCode/Movie_Website
