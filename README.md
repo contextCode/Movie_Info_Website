@@ -1,6 +1,6 @@
-# Netflix Clone
+# Movie Website Clone
 
-A Netflix clone built to showcase my programming skills and serve as a portfolio project.
+A Movie Website clone built to showcase my programming skills and serve as a portfolio project.
 
 ## Features
 
