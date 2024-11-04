@@ -28,7 +28,7 @@ A Movie Website clone built to showcase my programming skills and serve as a por
 npm install
 ```
 
-### Setup .env file
+### 3. Setup .env file
 
 ```bash
 PORT=5000
@@ -38,7 +38,7 @@ JWT_SECRET=Add_Your_JWT_SECRET_Here
 TMDB_API_KEY=Add_Your_TMDB_API_KEY_Here
 ```
 
-### Start the App:
+### 4. Start the App:
 
 ```shell
 npm run dev
