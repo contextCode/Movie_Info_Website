@@ -21,9 +21,6 @@ A Movie Website clone built to showcase my programming skills and serve as a por
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
 
 ````
 
