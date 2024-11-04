@@ -35,7 +35,4 @@ if (ENV_VARS.NODE_ENV === "production") {
 app.listen(PORT, () => {
   console.log("Server started at http://localhost:" + PORT);
   connectDB();
-
-  // Überprüfe den TMDB_API_KEY
-  console.log("TMDB API Key:", ENV_VARS.TMDB_API_KEY);
 });

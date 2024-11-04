@@ -9,9 +9,3 @@ export const ENV_VARS = {
   NODE_ENV: process.env.NODE_ENV,
   TMDB_API_KEY: process.env.TMDB_API_KEY,
 };
-
-console.log("MONGO_URI:", process.env.MONGO_URI);
-console.log("PORT:", process.env.PORT);
-console.log("JWT_SECRET:", process.env.JWT_SECRET);
-console.log("NODE_ENV:", process.env.NODE_ENV);
-console.log("TMDB_API_KEY:", process.env.TMDB_API_KEY);
