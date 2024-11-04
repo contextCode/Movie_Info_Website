@@ -4,7 +4,7 @@ A Movie Website clone built to showcase my programming skills and serve as a por
 
 ## Features
 
-- 🎬 Fetch Movies and TV Shows
+- 🎬 Fetch Information about Movies and TV Shows
 - 🔎 Search for Actors and Movies
 - 🎥 Watch Trailers
 - 🔥 Fetch Search History
