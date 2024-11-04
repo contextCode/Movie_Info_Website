@@ -1,0 +1,12 @@
+version: 1
+services:
+  - type: web
+    name: movie_website
+    env: node
+    plan: free
+    region: frankfurt
+    buildCommand: npm run build
+    startCommand: npm run start
+    staticPublishPath: build
+    git:
+      repo: https://github.com/contextCode/Movie_Website
