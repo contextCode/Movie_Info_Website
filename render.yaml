@@ -7,4 +7,3 @@ services:
     region: frankfurt
     buildCommand: npm run build
     startCommand: npm run start
-    staticPublishPath: build
